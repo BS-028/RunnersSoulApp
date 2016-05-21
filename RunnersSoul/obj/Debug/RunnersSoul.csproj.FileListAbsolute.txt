@@ -1,1 +1,9 @@
 C:\Users\brody\OneDrive\Documents\GitHub\RunnersSoulSol\RunnersSoul\bin\Debug\RunnersSoul.exe.config
+C:\Users\brody\OneDrive\Documents\GitHub\RunnersSoulSol\RunnersSoul\bin\Debug\RunnersSoul.exe
+C:\Users\brody\OneDrive\Documents\GitHub\RunnersSoulSol\RunnersSoul\bin\Debug\RunnersSoul.pdb
+C:\Users\brody\OneDrive\Documents\GitHub\RunnersSoulSol\RunnersSoul\obj\Debug\RunnersSoul.csprojResolveAssemblyReference.cache
+C:\Users\brody\OneDrive\Documents\GitHub\RunnersSoulSol\RunnersSoul\obj\Debug\RunnersSoul.Form1.resources
+C:\Users\brody\OneDrive\Documents\GitHub\RunnersSoulSol\RunnersSoul\obj\Debug\RunnersSoul.Properties.Resources.resources
+C:\Users\brody\OneDrive\Documents\GitHub\RunnersSoulSol\RunnersSoul\obj\Debug\RunnersSoul.csproj.GenerateResource.Cache
+C:\Users\brody\OneDrive\Documents\GitHub\RunnersSoulSol\RunnersSoul\obj\Debug\RunnersSoul.exe
+C:\Users\brody\OneDrive\Documents\GitHub\RunnersSoulSol\RunnersSoul\obj\Debug\RunnersSoul.pdb
